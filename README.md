@@ -19,5 +19,11 @@ Classification of 6 classes:
 ## Related Work
 https://www.sciencedirect.com/science/article/pii/S2351978919307231
 
+## Dataset Link
+https://www.kaggle.com/asdasdasasdas/garbage-classification
+
 ## Android App GitHub Repo
 https://github.com/NanoLite-Bangkit/nanoliteapp
+
+## Deployed APK Link
+https://drive.google.com/file/d/1y4LlKTgKHgwA_VHPOK8z1iVwrPS1jnBJ/view?usp=sharing
