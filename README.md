@@ -18,3 +18,6 @@ Classification of 6 classes:
 
 ## Related Work
 https://www.sciencedirect.com/science/article/pii/S2351978919307231
+
+## Android App GitHub Repo
+https://github.com/NanoLite-Bangkit/nanoliteapp
